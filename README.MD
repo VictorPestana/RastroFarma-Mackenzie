@@ -4,7 +4,6 @@
 * **Instituição:** Universidade Presbiteriana Mackenzie
 * **Curso:** Curso de Sistemas de Informação
 * **Disciplina:** Modelagem de Sistemas
-* **Local e Ano:** Barueri, SP - 2026
 * **Integrantes do Grupo:**
   * Victor Gouveia Pestana
   * Yan Ambrosio Gralha
